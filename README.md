@@ -1,6 +1,6 @@
-# Basic Project :+1:
+# Databse Project :+1:
 
-*Structure for creating a basic project*
+*Database project*
 
 **Java 8**
 
